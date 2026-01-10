@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 📝 Interactive Task Manager
 
 A modern Task Manager Web Application built using React, Vite, and Tailwind CSS.
