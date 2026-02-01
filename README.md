@@ -5,12 +5,8 @@ The app allows users to manage daily tasks efficiently with a clean UI and smoot
 
 This project demonstrates core React concepts, state management, and modern UI design using Tailwind CSS.
 
-🚀 Live Demo
-
-👉 (Add your deployed link here)
-Example:
-
-https://your-username.vercel.app/
+🚀 Live Link
+https://nitshhz.github.io/Task-Manager/
 
 🛠️ Tech Stack
 
